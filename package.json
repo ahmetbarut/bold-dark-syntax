@@ -1,0 +1,15 @@
+{
+  "name": "bold-dark-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "Açık renkli ve kalın yazılı bir tema",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ahmetbarut/bold-dark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
